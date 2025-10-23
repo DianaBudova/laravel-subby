@@ -16,6 +16,8 @@ Click on each version to read documentation.
 
 | Laravel | Laravel Subby                                  |
 |:--------|:-----------------------------------------------|
+| 12.x    | [v7.x](/v7.x/)                                 |
+| 11.x    | [v7.x](/v7.x/)                                 |
 | 10.x    | [v7.x](/v7.x/)                                 |
 | 9.x     | [v6.x](/v6.x/), [v7.x](/v7.x/)                 |
 | 8.x     | [v3.x](/v3.x/), [v4.x](/v4.x/), [v5.x](/v5.x/) |
